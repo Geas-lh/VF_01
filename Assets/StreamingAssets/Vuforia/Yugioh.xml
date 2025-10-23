@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="leon" size="0.200000 0.188006" />
+    <ImageTarget name="blueeyes" size="0.200000 0.262172" />
     <ImageTarget name="dragonrose" size="0.200000 0.291667" />
   </Tracking>
 </QCARConfig>
