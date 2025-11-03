@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="dragonrose" size="0.200000 0.291667" />
+    <ImageTarget name="golpebeisboll" size="0.200000 0.112083" />
+    <ImageTarget name="beisbolpitcher" size="0.200000 0.138510" />
   </Tracking>
 </QCARConfig>
